@@ -30,9 +30,9 @@ tf.disable_v2_behavior()`.
 
 TBA.
 
-## Running the code
+## Usage
 
-TBA.
+`astroLIC(I_dir,Q_dir,U_dir,length=0.25,toIAU=False,wcs=True)`
 
 ## Notes
 
