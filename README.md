@@ -1,8 +1,10 @@
 # astro-LIC
 
-Applies Line Integral Convolution (LIC) to astrophysial polarimetry. 
+Applies Line Integral Convolution (LIC) to astronomical polarimetry. 
 
-## Description 
+## Description
+
+An astronomical implementation of [`LicPy`](https://rufat.be/licpy/)
 
 ## Dependencies
 
