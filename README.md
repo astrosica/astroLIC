@@ -31,4 +31,4 @@ TBA.
 
 ## Notes
 
-TBA.
+This is a particular implementation of LIC meant specifically for astronomical polarimetry which uses a specific coordinate system not used in many other data sets.
