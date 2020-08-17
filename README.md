@@ -1,2 +1,1 @@
-# astro-pol-lic
-Line Integral Convolution (LIC) for astrophysics polarization.
+# Line Integral Convolution (LIC) for astrophysics polarization.
