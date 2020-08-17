@@ -1,10 +1,10 @@
-# astro-LIC
+# astroLIC
 
 Applies Line Integral Convolution (LIC) to astronomical polarimetry. 
 
 ## Description
 
-An astronomical implementation of [`LicPy`](https://rufat.be/licpy/) using Stokes polarization maps.
+An implementation of [`LicPy`](https://rufat.be/licpy/) using astronomical polarimetry.
 
 ## Dependencies
 
