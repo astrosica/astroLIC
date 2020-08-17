@@ -31,4 +31,4 @@ TBA.
 
 ## Notes
 
-This is a particular implementation of LIC meant for astronomical polarimetry which uses a specific coordinate system not used in many other data sets. Therefore, `astro-LIC` is only meant to be used for astronomical polarization data and will not provide the correct orientation if used with other data sets.
+This is a particular implementation of LIC meant for astronomical polarimetry which uses a specific coordinate system (IAU convention) not used in many other data sets. Therefore, `astro-LIC` is only meant to be used for astronomical polarization data and will not provide the correct orientation if used with other data sets.
