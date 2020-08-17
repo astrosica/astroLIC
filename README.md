@@ -19,7 +19,6 @@ Additional required packages for `astro-LIC`:
 
 * numpy
 * aplpy
-* matplotlib
 * astropy
 
 ## Installation
