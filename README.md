@@ -11,7 +11,7 @@ Required packages for `LicPy`:
 * pytest
 * sympy
 
-Additional required packages for `astro-LIC`:
+Additional required packages for `astroLIC`:
 
 * numpy
 * aplpy
