@@ -1,6 +1,6 @@
 # astroLIC
 
-An implementation of [`LicPy`](https://rufat.be/licpy/) using astronomical polarimetry. An example is given in a Jupyter notebook which reproduces Figure 3 in Campbell et al. (2020).
+An implementation of [`LicPy`](https://rufat.be/licpy/) using astronomical polarimetry. An example is given in a Jupyter notebook which reproduces Figure 2 in Campbell et al. (2020).
 
 ## Dependencies
 
